@@ -1,5 +1,7 @@
 # Journal Note
 
+## SCI I
+
 ## SCI II
 
 #### [IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30) 

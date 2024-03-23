@@ -7,9 +7,9 @@ AcademicPaperNote
 
 ## 阅读索引
 
-[Journal Note](./JournalNote.md)
+[Journal Note 期刊整理](./JournalNote.md)
 
-### Visual&Image Processing
+### Visual&Image Processing 视觉图像处理
 
 - CNN 卷积神经网络
   - [2018.7.25-DeepLearningBasedRobotforAutomaticallyPickingupGarbageontheGrass](./Visual&ImageProcessing/CNN/2018.7.25-DeepLearningBasedRobotforAutomaticallyPickingupGarbageontheGrass.md)
