@@ -7,9 +7,14 @@ AcademicPaperNote
 
 ## 阅读索引
 
-### DeepLearning
+[Journal Note](./JournalNote.md)
 
-- [2018.7.25-DeepLearningBasedRobotforAutomaticallyPickingupGarbageontheGrass](./Visual&ImageProcessing/CNN/2018.7.25-DeepLearningBasedRobotforAutomaticallyPickingupGarbageontheGrass.md)
+### Visual&Image Processing
+
+- CNN 卷积神经网络
+  - [2018.7.25-DeepLearningBasedRobotforAutomaticallyPickingupGarbageontheGrass](./Visual&ImageProcessing/CNN/2018.7.25-DeepLearningBasedRobotforAutomaticallyPickingupGarbageontheGrass.md)
+- KNN K-近邻
+- SVM 支持向量机
 
 ## 版权声明
 - 本项目所有非代码文本内容遵循 [CC BY-NC-SA 3.0 许可协议](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
