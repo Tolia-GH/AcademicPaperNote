@@ -7,7 +7,7 @@ AcademicPaperNote
 
 ## 阅读索引
 
-### 
+### DeepLearning
 
 - [2018.7.25-DeepLearningBasedRobotforAutomaticallyPickingupGarbageontheGrass](./2018.7.25-DeepLearningBasedRobotforAutomaticallyPickingupGarbageontheGrass.md)
 
