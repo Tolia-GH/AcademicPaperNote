@@ -9,7 +9,7 @@ AcademicPaperNote
 
 ### DeepLearning
 
-- [2018.7.25-DeepLearningBasedRobotforAutomaticallyPickingupGarbageontheGrass](./2018.7.25-DeepLearningBasedRobotforAutomaticallyPickingupGarbageontheGrass.md)
+- [2018.7.25-DeepLearningBasedRobotforAutomaticallyPickingupGarbageontheGrass](./Visual&ImageProcessing/CNN/2018.7.25-DeepLearningBasedRobotforAutomaticallyPickingupGarbageontheGrass.md)
 
 ## 版权声明
 - 本项目所有非代码文本内容遵循 [CC BY-NC-SA 3.0 许可协议](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
