@@ -8,13 +8,22 @@ AcademicPaperNote
 ## 阅读索引
 
 [Journal Note 期刊整理](./JournalNote.md)
+[Meeting Outline 会议大纲](./Online-Meeting.md)
+[Topic List 课题列表](./Topics.md)
 
 ### Visual&Image Processing 视觉图像处理
 
 - CNN 卷积神经网络
-  - [2018.7.25-DeepLearningBasedRobotforAutomaticallyPickingupGarbageontheGrass](./Visual&ImageProcessing/CNN/2018.7.25-DeepLearningBasedRobotforAutomaticallyPickingupGarbageontheGrass.md)
-- KNN K-近邻
-- SVM 支持向量机
+  - [物体位姿估计与自动抓取](./Visual&ImageProcessing/CNN/CNN-2014.03.md)
+  - [垃圾识别与清理](./Visual&ImageProcessing/CNN/CNN-2018.7-GarbageCleaning.md)
+  - [](./Visual&ImageProcessing/CNN/CNN-2023.02.md)
+  - [](./Visual&ImageProcessing/CNN/CNN-2023.7-DefectDetection.md)
+  - [](./Visual&ImageProcessing/CNN/CNN-2023.7-PlantLeafDiseaseDetection.md)
+  - [](./Visual&ImageProcessing/CNN/CNN-LSTM-2023.11-CompoundFaultDetection.md)
+  - [](./Visual&ImageProcessing/CNN/CNN-LSTM-2024.2-PavementDefectDetection.md)
+  - [](./Visual&ImageProcessing/CNN/CNNObjectDetectionInSmartAgriculture.-2020.03.md)
+  - [](./Visual&ImageProcessing/CNN/R-CNN-2023.11-PigWeightPrediction.md)
+
 
 ## 版权声明
 - 本项目所有非代码文本内容遵循 [CC BY-NC-SA 3.0 许可协议](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
