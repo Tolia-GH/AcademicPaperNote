@@ -16,13 +16,13 @@ AcademicPaperNote
 - CNN 卷积神经网络
   - [物体位姿估计与自动抓取](./Visual&ImageProcessing/CNN/CNN-2014.03.md)
   - [垃圾识别与清理](./Visual&ImageProcessing/CNN/CNN-2018.7-GarbageCleaning.md)
-  - [](./Visual&ImageProcessing/CNN/CNN-2023.02.md)
-  - [](./Visual&ImageProcessing/CNN/CNN-2023.7-DefectDetection.md)
-  - [](./Visual&ImageProcessing/CNN/CNN-2023.7-PlantLeafDiseaseDetection.md)
-  - [](./Visual&ImageProcessing/CNN/CNN-LSTM-2023.11-CompoundFaultDetection.md)
-  - [](./Visual&ImageProcessing/CNN/CNN-LSTM-2024.2-PavementDefectDetection.md)
-  - [](./Visual&ImageProcessing/CNN/CNNObjectDetectionInSmartAgriculture.-2020.03.md)
-  - [](./Visual&ImageProcessing/CNN/R-CNN-2023.11-PigWeightPrediction.md)
+  - [基于视觉识别的机械臂抓取](./Visual&ImageProcessing/CNN/CNN-2023.02.md)
+  - [基于深度卷积神经网络的缺陷检测文献综述](./Visual&ImageProcessing/CNN/CNN-2023.7-DefectDetection.md)
+  - [植物叶病检测](./Visual&ImageProcessing/CNN/CNN-2023.7-PlantLeafDiseaseDetection.md)
+  - [风力发电领域的复合故障检测](./Visual&ImageProcessing/CNN/CNN-LSTM-2023.11-CompoundFaultDetection.md)
+  - [路面缺陷检测](./Visual&ImageProcessing/CNN/CNN-LSTM-2024.2-PavementDefectDetection.md)
+  - [基于物联网技术和智能图像识别的收割系统](./Visual&ImageProcessing/CNN/CNNObjectDetectionInSmartAgriculture.-2020.03.md)
+  - [猪体重预测](./Visual&ImageProcessing/CNN/R-CNN-2023.11-PigWeightPrediction.md)
 
 
 ## 版权声明
